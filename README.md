@@ -1,2 +1,2 @@
 # pack-issue-fixture
-A simple fixture for use with pack Git issue.
+A simple fixture to contrast with an issue in the httpd-cnb
